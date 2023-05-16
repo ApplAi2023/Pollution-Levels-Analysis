@@ -36,8 +36,7 @@ Our analysis revealed several interesting insights into the pollution levels acr
  In conclusion, this analysis project provides valuable insights into the pollution levels across the world. By using three different datasets, we were able to identify patterns and trends that can help policymakers and environmentalists take necessary actions to reduce pollution levels. The analysis also shows the importance of data integration and the value of using multiple datasets to get a comprehensive view of the problem.
 
 
-## All Rights Reserved to ApplAi
-## Content created by [ApplAi](https://www.linkedin.com/company/applaiasu/mycompany/)
+## All Rights Reserved to [ApplAi](https://www.linkedin.com/company/applaiasu/mycompany/)
 
 
 **Directed By:**
